@@ -1,5 +1,5 @@
 # MSSC Spring State Machine
-
+[![CircleCI](https://circleci.com/gh/pdibenedetto/mssc-ssm.svg?style=svg)](https://circleci.com/gh/pdibenedetto/mssc-ssm)
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
 
 You can learn more about the courses here:
